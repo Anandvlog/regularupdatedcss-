@@ -1,0 +1,8 @@
+h1::selection
+{
+    color: yellow;
+    background: gray;
+}
+p::selection{
+    background: hotpink;
+}
