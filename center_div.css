@@ -1,0 +1,36 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.parent_div{
+    width: 100vw;
+    height: 100vh;
+    background: #2980b9;
+    /* third way center div */
+    display: grid;            
+    place-items: center;
+    /* second way center div */
+    /* display: flex;            
+    justify-content: center;
+    align-items: center; */
+    /* one way center div */
+    /* position: relative; */
+   
+
+}
+.child_div{
+    width: 60vw;
+    height: 60vh;
+    background: #1abc9c;
+    /* position: absolute;            
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); */
+}
+.child_div h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
