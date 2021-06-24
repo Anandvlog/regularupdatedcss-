@@ -1,0 +1,33 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.main_div
+{
+    width: 100vw;
+    height: 100vh;
+    background: #102a56;
+    display: grid;
+    place-items: center;
+}
+a{
+    text-decoration: none;
+    transition:  all 0.3s linear;
+    
+
+}
+a:link, a:visited
+{
+     color: #fff;
+}
+a:hover{
+
+    color: #192a56;
+    background: #fff;
+}
+a:active{
+    color: chartreuse;
+    background: #fff;
+}
