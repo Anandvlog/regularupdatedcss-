@@ -1,0 +1,24 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.main_header
+{
+    width: 100vw;
+    height: 100vh;
+    background: url(pexels-athena-2582937.jpg);
+    background-size: 100%;
+    display: grid;
+    place-items: center;
+    
+}
+h1
+{
+    background: #fff;
+    font-family: 'Kaushan Script', cursive;
+    padding: 0 10px ;
+    mix-blend-mode: screen;
+   
+}
