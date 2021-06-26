@@ -6,5 +6,7 @@
  <b> how to use after and before </b><br>
  <b> how to use Text Pseudo Elements</b><br>
  <b> how to use link,hover,active,visited Pseudo code in css </b><br>
- <b> Transparent_text one line of code </b>
+ <b> Transparent_text one line of code </b><br>
+ <b> First-child :last-child :nth-child Pseudo selectors use</b>
+ 
  
