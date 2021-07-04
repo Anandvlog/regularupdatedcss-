@@ -10,5 +10,6 @@
  <b> First-child :last-child :nth-child Pseudo selectors use</b><br>
  <b> how to use background clip css </b><br>
  <b> how to vertically Center text in css three way </b><br>
- <b> how to Responsive div and card  </b>
+ <b> how to Responsive div and card  </b><br>
+ <b> how to design PIE chart in pure css  </b>
  
