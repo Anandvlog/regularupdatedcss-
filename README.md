@@ -14,6 +14,7 @@
  <b> how to design PIE chart in pure css  </b><br>
  <b> Design Credit card in pure css  </b><br>
  <b> static navbar on scroll active menu  </b><br>
- <b> Automatic typed_text plugging </b>
+ <b> Automatic typed_text plugging </b><br>
+ <b> Fullpage scrolling plugging (section image) </b>
 
  
