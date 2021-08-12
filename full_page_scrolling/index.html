@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.2/fullpage.min.css" integrity="sha512-4rPgyv5iG0PZw8E+oRdfN/Gq+yilzt9rQ8Yci2jJ15rAyBmF0HBE4wFjBkoB72cxBeg63uobaj1UcNt/scV93w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>full_page_scrolling</title>
+</head>
+<body>
+    <div id="fullpage">
+        <div class="section s1">
+            <h1>The first Section</h1>
+            <div class="slide">
+                <h1>The first slide</h1>
+            </div>
+            <div class="slide">
+                <h1>The second slide</h1>
+            </div>
+            <div class="slide">
+                <h1>The third slide</h1>
+            </div>
+        </div>
+        <div class="section s2">
+            <h1>The second Section</h1>
+        </div>
+        <div class="section s3">
+            <h1>The third Section</h1>
+        </div>
+        
+    </div>
+    
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.2/fullpage.min.js" integrity="sha512-gSf3NCgs6wWEdztl1e6vUqtRP884ONnCNzCpomdoQ0xXsk06lrxJsR7jX5yM/qAGkPGsps+4bLV5IEjhOZX+gg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+  new fullpage('#fullpage', {
+	//options here
+	autoScrolling:true,
+    navigation: true,
+    navigationTooltips: ['home', 'about','vlog'],
+    showActiveTooltip: true,
+    scrollingSpeed: 1000,
+    controlArrows: false,
+    slidesNavigation: true,
+	
+});
+
+
+
+
+</script>
+</body>
+</html>
