@@ -15,6 +15,7 @@
  <b> Design Credit card in pure css  </b><br>
  <b> static navbar on scroll active menu  </b><br>
  <b> Automatic typed_text plugging </b><br>
- <b> Fullpage scrolling plugging (section image) </b>
+ <b> Fullpage scrolling plugging (section image) </b><br>
+ <b> Image popup in Lightbox2 pluggin </b>
 
  
