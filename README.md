@@ -17,6 +17,9 @@
  <b> Automatic typed_text plugging </b><br>
  <b> Fullpage scrolling plugging (section image) </b><br>
  <b> Image popup in Lightbox2 pluggin </b><br>
-  <b> How to add Sweet Alert Pluggin </b>
+ <b> How to add Sweet Alert Pluggin </b><br>
+ <b> How to add FullCalendar Pluggin </b><br>
+ 
+  
 
  
