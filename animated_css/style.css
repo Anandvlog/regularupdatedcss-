@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.background-img
+{
+    background-image: url(img/5137894.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center right;
+}
+.user-text
+{
+    position: absolute;
+    font-size: 15px;
+    font-weight: 400;
+    top: 253px;
+    left: 45px;
+    text-align: center;
+}
+.login-card
+{
+    position: absolute;
+    top: 30%;
+    width: 60rem;
+    height: auto;
+}
+.user-img{
+    position: relative;
+}
+.user img{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 15%;
+    height: auto;
+}
+.user-1 img
+{
+    position: absolute;
+    top: 20px;
+    left: 70px;
+    width: 38%;
+    height: auto;
+}
+.user-2 img{
+    position: absolute;
+    top: 20px;
+    right: 0px;
+    width: 30%;
+    height: auto;
+}
+.user-3 img{
+    position: absolute;
+    top: 20px;
+    left: 0px;
+    width: 30%;
+    height: auto;
+}
+.user-4 img{
+    position: absolute;
+    top: 30px;
+    right: 80px;
+    width: 35%;
+    height: auto;
+}
