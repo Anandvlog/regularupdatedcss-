@@ -19,7 +19,7 @@
  <b> Image popup in Lightbox2 pluggin </b><br>
  <b> How to add Sweet Alert Pluggin </b><br>
  <b> How to add FullCalendar Pluggin </b><br>
- <b> login page in animation design using AOS and animated.css </b><br>
+ <b> login animation pages design using AOS and animated.css </b><br>
  
   
 
