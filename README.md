@@ -20,6 +20,7 @@
  <b> How to add Sweet Alert Pluggin </b><br>
  <b> How to add FullCalendar Pluggin </b><br>
  <b> login animation pages design using AOS and animated.css </b><br>
+ <b> Basic Responsive-layout<br>
  
   
 
