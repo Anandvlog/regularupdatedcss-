@@ -21,7 +21,7 @@
  <b> How to add FullCalendar Pluggin </b><br>
  <b> login animation pages design using AOS and animated.css </b><br>
  <b> Basic Responsive-layout<br>
-    <img src="Responsive-layout/img/Day1.png">
+    <img src="Responsive-layout/img/Responsive-Design-layout.png">
  
   
 
